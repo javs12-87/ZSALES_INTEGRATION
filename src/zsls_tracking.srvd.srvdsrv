@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZSLS_TRACKING'
+@OData.schema.name: 'ZZ1_SALESTRACKING2_CDS'
+define service ZSLS_TRACKING {
+ expose ZZBES_ZZ1_SALESTRACKING2; 
+ } 
